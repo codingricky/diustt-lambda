@@ -1,9 +1,9 @@
 package diustt;
 
-public class SlackMessage {
+public class SlackResponse {
     private String text;
 
-    public SlackMessage(String text) {
+    public SlackResponse(String text) {
         this.text = text;
     }
 
